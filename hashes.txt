@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de almas unidas
+
+This log tracks the cryptographic history and versioning for the song **Noche de almas unidas** (noche-de-almas-unidas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:47:53.760822 | `v1` | `ac7311ac9c20cfecc86617ba7430478beebcbd872f0159f94f69ba6026c9849e` | `bf72eff9b58d223fd3026a0e18683b55116a05c41146cb504b13c2678d9a6abc` | `2026-06-21_noche-de-almas-unidas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

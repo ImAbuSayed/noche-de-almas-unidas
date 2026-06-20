@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-almas-unidas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noche de almas unidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-almas-unidas/) |
+| **Get License** | [Request Licensing for Noche de almas unidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-almas-unidas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ac7311ac9c20cfecc86617ba7430478beebcbd872f0159f94f69ba6026c9849e` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
